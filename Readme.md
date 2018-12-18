@@ -1,7 +1,7 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Асейкин](https://up.htmlacademy.ru/javascript/16/user/166179).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Спиридонов](https://htmlacademy.ru/profile/sydd).
 
 ---
 
